@@ -19,3 +19,6 @@ Now you can use it by just running `fbits *.flac` inside the folder you want to 
 - Download the script: [fbits.sh](https://github.com/ALi3naTEd0/fbits/releases/download/v0.0.1/fbits.sh)
 - Use [MSY2](https://www.msys2.org/)
 - `fbits.sh *.flac` _(make sure you're inside the folder you want to test)_
+
+## Contribute
+You can contact me on [discord](discordapp.com/users/343448030986371072)
