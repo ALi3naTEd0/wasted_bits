@@ -21,4 +21,4 @@ Now you can use it by just running `fbits *.flac` inside the folder you want to 
 - `fbits.sh *.flac` _(make sure you're inside the folder you want to test)_
 
 ## Contribute
-You can contact me on [discord](https://discordapp.com/users/343448030986371072)
+Join me on [discord]([https://discordapp.com/users/343448030986371072](https://discord.gg/UW8WEwjp)https://discord.gg/UW8WEwjp)
