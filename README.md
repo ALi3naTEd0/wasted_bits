@@ -1,4 +1,4 @@
-# fbits
+# Wasted Bits
 Check for TRUE 24-bit audio files
 
 This is a BASH script I found on the internet long time ago but never managed to rescue it until now.
