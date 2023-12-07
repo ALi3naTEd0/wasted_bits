@@ -1,5 +1,5 @@
 # fbits
-Check for wasted bits in 24-bit audio files
+Check for TRUE 24-bit audio files
 
 This is script I found on the internet long time ago but never managed to rescue it until now.
 
@@ -15,3 +15,6 @@ Now you can use it by just running `fbits *.flac` inside the folder you want to 
 
 Or just
 `fbits /your/music/path`
+
+Windows
+- Use [MSY2](https://www.msys2.org/)
